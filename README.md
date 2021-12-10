@@ -33,6 +33,6 @@ $ pip3 install flask && python3 server.py
 
 ### About Me:
 
-###:fa-github: [LeyCod](http://https://github.com/LeyCod "LeyCod")
-###:fa-linkedin-square: [Emmanuel L. Guacache R.](http://https://www.linkedin.com/in/emmanuelleyan/ "Emmanuel Leyan Guacache Rodriguez")
+Github: [LeyCod](http://https://github.com/LeyCod "LeyCod")
+Linkedin-square: [Emmanuel L. Guacache R.](http://https://www.linkedin.com/in/emmanuelleyan/ "Emmanuel Leyan Guacache Rodriguez")
 
